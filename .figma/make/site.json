@@ -1,0 +1,10 @@
+{
+  "description": "Helps couples manage shared finances with budgeting tools that promote transparency and collaboration for better money management together.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
